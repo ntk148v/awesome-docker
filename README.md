@@ -379,7 +379,7 @@ Examples by:
 * [@jessfraz](https://github.com/jessfraz/Dockerfiles)
 * [@komljen](https://github.com/komljen/dockerfile-examples)
 * [@kstaken](https://github.com/kstaken/dockerfile-examples)
-* [@llitfkitfk](https://github.com/llitfkitfk/docker-compose-demo)
+* [@awesome-startup]( https://github.com/awesome-startup/docker-compose)
 * [@ondrejmo](https://github.com/ondrejmo/Dockerfiles)
 * [@pandrew](https://github.com/pandrew/dockerfiles)
 * [@vimagick](https://github.com/vimagick/dockerfiles)
@@ -389,7 +389,7 @@ Examples by:
 
 * [dockfmt](https://github.com/jessfraz/dockfmt) :construction: - Dockerfile formatter and parser by [@jessfraz][jessfraz]
 * [dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) - A rule-based 'linter' for Dockerfiles by [@redhataccess](https://github.com/redhataccess)
-* [Hadolint](https://github.com/lukasmartinelli/hadolint) - A Dockerfile linter written in Haskell by [@lukasmartinelli](https://github.com/lukasmartinelli)
+* [Hadolint](https://github.com/hadolint/hadolint) - A Dockerfile linter written in Haskell by [@lukasmartinelli](https://github.com/lukasmartinelli)
 * [Whale-linter](https://github.com/jeromepin/whale-linter) - A simple and small Dockerfile linter written in Python3+ without dependencies by [@jeromepin](https://github.com/jeromepin)
 
 ### Registry
